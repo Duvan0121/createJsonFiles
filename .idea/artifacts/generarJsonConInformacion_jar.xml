@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="generarJsonConInformacion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/generarJsonConInformacion_jar</output-path>
+    <root id="root">
+      <element id="archive" name="generarJsonConInformacion.jar">
+        <element id="module-output" name="generarJsonConInformacion" />
+      </element>
+      <element id="library" level="project" name="Maven: org.json:json:20240303" />
+    </root>
+  </artifact>
+</component>
